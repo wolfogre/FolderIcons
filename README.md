@@ -1,2 +1,20 @@
 # FolderIcons
 Folder icons for kinds of IDEs.
+
+![origin](origin.ico)
+![AndroidStudioProjects](AndroidStudioProjects.ico)
+![CLProjects](CLProjects.ico)
+![CodeBlocksProjects](CodeBlocksProjects.ico)
+![DevC++5Projects](DevC++5Projects.ico)
+![EclipseProjects](EclipseProjects.ico)
+![GUIDEProjects](GUIDEProjects.ico)
+![GoProjects](GoProjects.ico)
+![HtmlProjects](HtmlProjects.ico)
+![IntelliJIDEAProjects](IntelliJIDEAProjects.ico)
+![JavaProjects](JavaProjects.ico)
+![MatLabProjects](MatLabProjects.ico)
+![MinGWProjects](MinGWProjects.ico)
+![OtherProjects](OtherProjects.ico)
+![QtCreatorProjects](QtCreatorProjects.ico)
+![VisualC++Projects](VisualC++Projects.ico)
+![VisualStudioProjects](VisualStudioProjects.ico)
